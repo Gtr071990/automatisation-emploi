@@ -1,6 +1,6 @@
 import requests
 
-BASE_URL = "http://localhost:11434/v1"
+BASE_URL = "http://localhost:5000/v1"
 AUTH_TOKEN = "local-model"
 
 def get_job_listings():
